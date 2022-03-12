@@ -1,0 +1,163 @@
+*{
+    background-color: #0fb8ad ;
+    font-family:'Times New Roman', Times, ;
+    margin: 5px;
+}
+
+
+h1{
+    text-align: center;
+    color:black;
+    margin-left: 500px;
+    margin-right: 500px;
+    height:40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow:  5px 5px rgb(0, 0, 0), 5px 5px 5px;
+    text-shadow: 2px 2px white;
+    border-radius: 25px;
+    background-image: linear-gradient(90deg, red, blue);    
+}
+h2{
+    background-color: royalblue;
+    text-align: center;
+    box-shadow:  5px 5px rgb(0, 0, 0, 3), 5px 5px 5px;
+    border-radius: 25px;
+}
+
+.sub{
+    color:black;
+    text-shadow: 2px 2px white;
+
+}
+
+
+button{
+    background-color: tomato;
+}
+
+p{
+    background-color: tomato;
+    box-shadow:  5px 5px rgb(0, 0, 0), 5px 5px 5px;
+    background-clip: text;
+
+}
+
+#lux{
+    border-radius: 25%;
+    margin-left: 100px;
+    margin-top: -150px;
+    margin-bottom: 0px;
+}
+
+#aero{
+    border-radius: 25%;
+    margin-left: 550px;
+    margin-top: -150px;
+    margin-bottom: 0px;
+    margin-right:  0px;
+}
+
+.bikes{
+    margin-left: 185px;
+}
+
+.socials{
+    list-style: none;
+}
+
+.ig{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.fb{
+    margin-left: 565px;
+    margin-top: -120px;
+}
+.yt{
+    margin-left: 840px;
+    margin-top: -115px;
+}
+
+#julian{
+    margin-left: 100px;
+    margin-top: -500px;
+    margin-bottom: 25px;
+    border-radius: 25px;
+}
+
+#ben{
+    border-radius: 25px;
+}
+
+#mvdp{
+    margin-left: 620px;
+    margin-top: -500px;
+    margin-bottom: 25px;
+    border-radius: 25px;
+}
+
+#julian2{
+    margin-left: 100px;
+    margin-right: 970px;
+    background-color:yellow;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: -62px;
+}
+
+#mvdp2{
+    margin-left: 980px;
+    margin-right: 90px;
+    background-color: green;
+    border-radius: 25px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+#ben2{
+    margin-left: 505px;
+    margin-right: 505px;
+    background-color: orange;
+    border-radius: 25px;
+    margin-top: -46px;
+}
+
+#ul{
+  width: 190px;
+  background-image: linear-gradient(90deg, red, blue); 
+  padding: 5px;
+  margin: 20px;
+  text-align: center;
+  list-style: none;
+  margin-right: 150px;
+  margin-left: 200px;
+  margin-top: -130px;
+}
+
+#field{
+    text-align: center;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.kat{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(90deg, red, blue, tomato); 
+}
+
+.huwlynn{
+    margin-left:550px;
+    margin-right: 450px;
+    margin-top: 23px;
+}
+
+.katig{
+    margin-left:660px;
+    margin-right: 360px;
+    margin-bottom: -95px;
+}
+
